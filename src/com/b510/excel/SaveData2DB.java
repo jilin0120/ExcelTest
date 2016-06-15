@@ -12,7 +12,7 @@ import com.b510.excel.util.DbUtil;
 import com.b510.excel.vo.CcChapter;
 
 /**
- * @author Hongten
+ * @author jilin
  * @created 2014-5-18
  */
 public class SaveData2DB {
